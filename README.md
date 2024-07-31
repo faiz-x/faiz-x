@@ -6,7 +6,7 @@ Contact: xunyang@umich.edu</p>
 
 Leetcode
 ======
-![LeetCode Stats](https://leetcard.jacoblin.cool/clever-6ouldc82?theme=light&font=Noto%20Sans%20Linear%20B&ext=heatmap&site=cn)\
+![LeetCode Stats](https://leetcard.jacoblin.cool/xunyang03?theme=light&font=Noto%20Sans%20Linear%20B&ext=heatmap&site=cn)\
 <!---
 <h3>Things I code with</h3>
 <p>
