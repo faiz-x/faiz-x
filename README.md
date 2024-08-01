@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Xun :panda_face:, an Engineer from <b>Chengdu, China</b> <img src="https://cdn-icons-png.flaticon.com/512/197/197375.png" width="15"/>, currently living in <b>Ann Arbor, USA</b> <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="15"/> <br>
+<p>Welcome to my page! 😸</br> I'm Xun, an Engineer | Programmer | Catkeeper from <b>Chengdu, China</b> <img src="https://cdn-icons-png.flaticon.com/512/197/197375.png" width="15"/>, currently living in <b>Ann Arbor, USA</b> <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="15"/> <br>
 
 🌐 [https://xunyang03.github.io/](https://xunyang03.github.io/) <br>
 🦊 [https://gitlab.eecs.umich.edu/xunyang ](https://gitlab.eecs.umich.edu/xunyang)<br>
@@ -10,8 +10,7 @@
 
 Language
 ===
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xunyang03)](https://github.com/xunyang03)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xunyang03&show_icons=true&theme=dark&hide_title=true&hide_border=true&card_width=400&langs_count=5&layout=compact)](https://github.com/xunyang03)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xunyang03&show_icons=true&theme=radical&hide_title=true&hide_border=true&langs_count=5&layout=donut)](https://github.com/xunyang03)
 
 
 Leetcode Stats
