@@ -8,14 +8,14 @@
 
 
 
-Language
+Language 
 ===
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xunyang03&show_icons=true&theme=radical&hide_title=true&hide_border=true&langs_count=5&layout=donut)](https://github.com/xunyang03)
 
 
 Leetcode Stats
 ======
-![LeetCode Stats](https://leetcard.jacoblin.cool/xunyang03?theme=light&font=Noto%20Sans%20Linear%20B&ext=heatmap&site=cn)\
+![LeetCode Stats](https://leetcard.jacoblin.cool/xunyang03?theme=wtf&font=Noto%20Sans%20Linear%20B&ext=heatmap&show_rank=false&site=cn)\
 <!---
 <h3>Things I code with</h3>
 <p>
