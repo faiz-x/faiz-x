@@ -2,9 +2,10 @@
 
 <p>Welcome to my page! </br> I'm Xun :panda_face:, an Engineer from <b>Chengdu, China</b> <img src="https://cdn-icons-png.flaticon.com/512/197/197375.png" width="15"/>, currently living in <b>Ann Arbor, USA</b> <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="15"/> <br>
 
-Website: https://xunyang03.github.io/ <br>
-Gitlab: https://gitlab.eecs.umich.edu/xunyang <br>
-Contact: xunyang@umich.edu</p>
+🌐 [https://xunyang03.github.io/](https://xunyang03.github.io/) <br>
+🦊 [https://gitlab.eecs.umich.edu/xunyang ](https://gitlab.eecs.umich.edu/xunyang)<br>
+✉️ [xunyang@umich.edu](mailto:xunyang@umich.edu)</p>
+
 
 
 Language
