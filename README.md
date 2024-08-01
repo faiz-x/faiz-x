@@ -1,10 +1,15 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Xun, an Engineer from <b>Chengdu</b>:panda_face: <b>China</b> <img src="https://cdn-icons-png.flaticon.com/512/197/197375.png" width="15"/>, currently living in <b>Ann Arbor, USA</b> <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="15"/> <br>
+<p>Welcome to my page! </br> I'm Xun :panda_face:, an Engineer from <b>Chengdu, China</b> <img src="https://cdn-icons-png.flaticon.com/512/197/197375.png" width="15"/>, currently living in <b>Ann Arbor, USA</b> <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="15"/> <br>
+
 Website: https://xunyang03.github.io/ <br>
 Contact: xunyang@umich.edu</p>
 
-Leetcode
+Language
+===
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xunyang03)](https://github.com/anuraghazra/github-readme-stats)
+
+Leetcode Stats
 ======
 ![LeetCode Stats](https://leetcard.jacoblin.cool/xunyang03?theme=light&font=Noto%20Sans%20Linear%20B&ext=heatmap&site=cn)\
 <!---
