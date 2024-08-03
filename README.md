@@ -1,11 +1,11 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <p>Welcome to my page! 😸</br> I'm Xun, an Engineer | Programmer | Catkeeper from <b>Chengdu, China</b> <img src="https://cdn-icons-png.flaticon.com/512/197/197375.png" width="15"/>, currently living in <b>Ann Arbor, USA</b> <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="15"/> <br>
-
+<!--
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/xunyang03)
-
+-->
 🤖 Robotics Master @ [U-mich](https://robotics.umich.edu/) <br>
-⚡ C++ / Python.<br>
+⚡ C++ / Python / MATLAB.<br>
 🦊 Gitlab: [gitlab.eecs.umich.edu/xunyang](https://gitlab.eecs.umich.edu/xunyang)<br>
 </p>
 
