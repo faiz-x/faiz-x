@@ -6,19 +6,17 @@
 -->
 🤖 Robotics Master @ [U-mich](https://robotics.umich.edu/) <br>
 ⚡ C++ / Python / MATLAB.<br>
-🦊 Gitlab: [gitlab.eecs.umich.edu/xunyang](https://gitlab.eecs.umich.edu/xunyang)<br>
+🦊 Gitlab: [xunyang](https://gitlab.eecs.umich.edu/xunyang)<br>
 </p>
-
-
 
 Language 
 ===
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xunyang03&show_icons=true&theme=radical&hide_title=true&hide_border=true&langs_count=5&layout=donut)](https://github.com/xunyang03)
 
 
-Leetcode Stats
+Leetcode
 ======
-![LeetCode Stats](https://leetcard.jacoblin.cool/xunyang03?theme=wtf&font=Noto%20Sans%20Linear%20B&ext=heatmap&show_rank=false&site=cn)\
+![LeetCode Stats](https://leetcard.jacoblin.cool/xunyang03?theme=dark&font=Noto%20Sans%20Linear%20B&ext=heatmap&show_rank=false&site=cn)\
 <!---
 <h3>Things I code with</h3>
 <p>
