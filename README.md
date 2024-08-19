@@ -1,6 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <p>Welcome to my page! 😸</br> I'm Xun, an Engineer | Programmer | Catkeeper from <b>Chengdu, China</b> <img src="https://cdn-icons-png.flaticon.com/512/197/197375.png" width="15"/>, currently living in <b>Ann Arbor, USA</b> <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="15"/> <br>
+My research interests are <b>Embodied Intelligence</b>, <b>Robotics Control</b>, and <b>Autonomous Vehicles</b>.<br>
 <!--[![GitHub](https://img.shields.io/badge/dynamic/json?-->
 
 🤖 Robotics Master @ [U-mich](https://robotics.umich.edu/) <br>
